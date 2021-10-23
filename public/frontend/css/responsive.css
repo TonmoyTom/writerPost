@@ -1,0 +1,311 @@
+@media(min-width:992px) and (max-width:1199px) {
+    .price_item ul li {
+        margin-left: 20px;
+    }
+    .blog_small .blog_text h3 {
+        font-size: 18px;
+    }
+
+    .be-comment-block {
+        padding: 50px 2px;
+
+    }
+
+    .author_body h4 {
+     margin-left: 20px;
+    }
+
+    .author_body p {
+        margin-left: 20px;
+    }
+
+    .social ul li a {
+        padding: 9px 76px;
+      
+    }
+    
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    #hamimmenu li a {
+        padding: 10px 15px;
+    }
+    .price_main {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .price_main:first-child .price_item {
+        right: -10px;
+    }
+    .price_main:last-child .price_item {
+        left: -10px;
+    }
+    .price_item ul li {
+        margin-left: 0px;
+    }
+
+    .post_body h2 a {
+      font-size: 30px;
+    }
+
+    .post_body {
+        padding: 70px 92px;
+    }
+    .post_body h1 {
+
+        left: 10px;
+    }
+
+    .be-comment-block {
+        padding: 50px 2px;
+
+    }
+
+    .social ul li a {
+        padding: 9px 68px;
+
+    }
+
+    .popular_post {
+        padding: 70px 20px;
+    }
+
+
+
+}
+@media(max-width:991px){
+    #hamimmenu ul{
+        margin-top: 20px;
+    }
+    #hamimmenu li a::after{
+        left: 0;
+        bottom: 50%;
+        transform: translate(0,50%) ;
+        -webkit-transform: translate(0,50%);
+    }
+    .inner_page_head{
+        margin-top: 55px;
+    }
+}
+@media(min-width:576px) and (max-width:767px) {
+    #hamimmenu li a {
+        padding: 10px 15px;
+    }
+    .section_header {
+        margin-bottom: 60px;
+    }
+    .banner_item {
+        height: 450px;
+    }
+    .banner_content h2 {
+        font-size: 50px;
+    }
+    .banner_content h4{
+        font-size: 2rem;
+    }
+    .banner_content a {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .banner_content p {
+        padding-bottom: 15px;
+    }
+    .about_skill h3,
+    .about_inner{
+        text-align: center;
+    }
+    .skills {
+        margin-top: 24px;
+    }
+    .about_skill {
+        padding-left: 0;
+        margin-top: 40px;
+    }
+    #counter_part {
+        padding: 50px 0;
+    }
+    .counter_inner {
+        margin: 30px 0;
+    }
+    .home_gallary_img img {
+        width: 100%;
+    }
+    
+    .contact_info {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+     .post_body h1 {
+
+        display: none;
+    }
+
+    .post_body {
+        padding: 70px 43px;
+    
+    }
+
+    .post_body h2 a {
+        font-size: 28px;
+    }
+
+    .be-comment-block {
+        padding: 50px 2px;
+
+    }
+
+    .social ul li a {
+        padding: 9px 62px;
+
+    }
+
+    .popular_post {
+        padding: 70px 20px;
+    }
+
+
+
+
+}
+
+@media(max-width:575px) {
+    #hamimmenu li a {
+        padding: 10px 15px;
+    }
+    .section_header {
+        margin-bottom: 60px;
+    }
+    .banner_item {
+        height: 450px;
+    }
+    .banner_content h2 {
+        font-size: 24px;
+    }
+    .banner_content h4{
+        font-size: 1.5rem;
+    }
+    .banner_content a {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .header_social_link a{
+        margin-left: 4px;
+        margin-right: 4px;
+        font-size: 14px;
+    }
+    .banner_content p {
+        padding-bottom: 15px;
+    }
+    .about_skill h3,
+    .about_inner{
+        text-align: center;
+    }
+    .skills {
+        margin-top: 20px;
+    }
+    .about_skill {
+        padding-left: 0;
+        margin-top: 40px;
+    }
+    #counter_part {
+        padding: 50px 0;
+    }
+    .counter_inner {
+        margin: 30px 0;
+    }
+    .home_gallary_img img {
+        width: 100%;
+    }
+    .contact_info {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+    .post_body h1 {
+        display: none;
+    }
+     .post_body {
+        padding: 70px 43px;
+    
+    }
+
+    .post_body h2 a {
+        font-size: 28px;
+    }
+
+    .be-comment-block {
+        padding: 50px 2px;
+
+    }
+
+    .author_body {
+        text-align: center;
+    }
+
+    .social ul li a {
+        padding: 9px 60px;
+    }
+
+    .popular_post {
+       padding: 70px 102px;
+
+    }
+
+    .post_body a{
+        font-size: 12px;
+    }
+    .post_body span{
+        font-size: 12px;
+    }
+
+    .post_body {
+        padding: 23px 15px;
+    }
+
+    .poem {
+   
+    padding: 50px 50px;
+    
+    }
+    
+}
+
+
+@media(max-width:320px){
+   .popular_post {
+       padding: 70px 30px;
+
+    }
+
+    .poem {
+   
+    padding: 50px 7px;
+
+    }
+
+    .poem::before {
+
+    left: 28%;
+
+    }
+
+    .poem::after {
+
+        left: 37%;
+ 
+    }
+
+    
+    .be-comment-content span {
+          width: 46%;
+    }
+
+    }
+    .be-comment-text {
+
+        margin-bottom: 15px;
+    }
+
+
+}
